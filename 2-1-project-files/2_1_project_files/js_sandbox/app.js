@@ -17,10 +17,10 @@
 // const name = 'Bulava';
 // console.log(name);
 
-const person = {
-    name: 'Bulava',
-    age: 20
-}
-person.age = 35;
+// const person = {
+//     name: 'Bulava',
+//     age: 20
+// }
+// person.age = 35;
 
-console.log(person);
+// console.log(person);
