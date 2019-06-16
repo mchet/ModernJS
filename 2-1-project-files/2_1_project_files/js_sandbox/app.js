@@ -1,9 +1,26 @@
-alert('something');
-console.log('check console');
-console.table({a:1, b:2});
+// var name = 'Buration';
+// console.log(name);
 
+// // Init var
+// var greeting;
+// console.log(greeting);
+// greeting = 'Hello';
+// console.log(greeting);
 
+// // let 
+// let helloUser;
+// console.log();
+// hello = 'Hello';
+// console.log(helloUser);
 
-console.error('Some error');
+// cosnt
+// const name = 'Bulava';
+// console.log(name);
 
-console.clear();
+const person = {
+    name: 'Bulava',
+    age: 20
+}
+person.age = 35;
+
+console.log(person);
